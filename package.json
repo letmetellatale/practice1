@@ -1,3 +1,6 @@
 {
-  "description": ""
+  "description": "",
+  "scripts": {
+    "build": "run dev"
+  }
 }
